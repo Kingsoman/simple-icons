@@ -5059,6 +5059,16 @@
 		"source": "https://d33wubrfki0l68.cloudfront.net/6f16455dae972425b77c7e31642269b375ec250e/3bd11/img/envoy-logo.svg"
 	},
 	{
+		"title": "E.on Energy",
+		"hex": "EA1B0A",
+		"source": "https://https://www.eonenergy.com/",
+		"aliases": {
+			"aka": [
+				"e.on"
+			]
+		}
+	},
+	{
 		"title": "EPEL",
 		"hex": "FC0000",
 		"source": "https://fedoraproject.org/wiki/EPEL"
